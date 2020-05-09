@@ -12,4 +12,10 @@ To run the server, run in API folder command line
 
 ```node server.js```
 
+Here's some view inside the web apps
+
+![](images/example1.png)
+
+![](images/example2.png)
+
 Note : you can run the server using ITS VPN (which not all people can view the complete Web App)

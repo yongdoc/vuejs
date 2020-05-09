@@ -1,0 +1,23 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nrp": "05111740000129",
+      "name": "Ahmad Yahya Abdul A",
+      "tl": "1999-07-01",
+      "jk": "Laki-laki",
+      "ukt": 7500000,
+      "aktif": true,
+      "link": ""
+    },
+    {
+      "id": 2,
+      "nrp": "21312",
+      "name": "yong",
+      "tl": "2020-02-18 00:00:00",
+      "jk": "Perempuan",
+      "ukt": "Rp 10100",
+      "aktif": false
+    }
+  ]
+}

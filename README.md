@@ -18,4 +18,4 @@ Here's some view inside the web apps
 
 ![](images/example2.png)
 
-Note : you can run the server using ITS VPN (which not all people can view the complete Web App)
+Note : you can run the server using ITS VPN ( which means not all people can view the complete Web App :( )
